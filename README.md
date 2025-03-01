@@ -1,16 +1,20 @@
-## Hi there 👋
+## Me chamo Micael! 🐱‍💻  
+<img src="https://media1.tenor.com/m/FvkCklevz10AAAAC/glorp-cat.gif" width="120px">
 
-<!--
-**awsom-xixo/awsom-xixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Linguagens e Ferramentas:
+<div style="display: inline_block">
+  <img align="center" alt="Xixo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Xixo-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Xixo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</div>
 
-Here are some ideas to get you started:
+## 📊 Minhas Estatísticas:
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=awsom-xixo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=awsom-xixo&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Linguagens mais usadas:
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awsom-xixo&layout=compact&langs_count=6&theme=dracula"/>
+</div>
