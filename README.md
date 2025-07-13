@@ -1,8 +1,10 @@
 ## Olá, me chamo Micael!
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/qTKKjADTg_IAAAAC/bordercollie-3q4x.gif" width="30%">
-</div>
+Sou estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI/SC, atualmente no segundo semestre. Tenho grande interesse em tecnologia, programação e desenvolvimento web, e venho consolidando meus aprendizados por meio de projetos práticos e outras experiências. 
+
+Ao longo da minha formação, aprendi lógica de programação com Portugol, fundamentos de eletrônica básica, programação com Python, banco de dados com MySQL (incluindo modelagem MER, DER e MRN), e versionamento com Git e GitHub. Também estudei modelagem de sistemas com foco em análise de requisitos, documentação técnica e desenvolvimento de sistemas em HTML, CSS, JavaScript e PHP.
+
+Me considero uma pessoa muito curiosa, dedicada e comprometida com o meu crescimento profissional. Estou aberto a novos desafios e conexões que possam me ajudar a evoluir como desenvolvedor e construir uma carreira sólida.
 
 ### Linguagens e Ferramentas que uso:
 <div align="center">
