@@ -24,6 +24,6 @@ Me considero uma pessoa muito curiosa, dedicada e comprometida com o meu crescim
 ## Minhas Estatísticas:
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=awsom-xixo&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=dark"/>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awsom-xixo&layout=compact&langs_count=6&locale=pt-br&theme=dark"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=micaeljunco&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=dark"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaeljunco&layout=compact&langs_count=6&locale=pt-br&theme=dark"/>
 </div>
